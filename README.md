@@ -27,6 +27,12 @@ This is the 4th projects of Udacity frontend nanodegree.
 
 * Copy the public URL ngrok gives you and try visit it everywhere!
 
+### Optimizations in views/js/main.js
+
+* Replace JS functions with more efficient ones, such use "getElementById" instead of "querySelector".
+* Move dom related operations out of loop in order to avoid FSL.
+* Only paint pizza in visible area.
+
 ### What's next?
 
 * Reach higher scroe on PageSpeed Insights
